@@ -1,0 +1,17 @@
+.App-logo {
+  width: 200px;
+  display: block;
+  margin: 0 auto;
+}
+
+body {
+  background: #f9f8fe;
+}
+.App-header {
+  margin: 30px 0;
+}
+
+.App-footer {
+  text-align: center;
+  margin: 30px 0;
+}
