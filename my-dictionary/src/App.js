@@ -13,7 +13,7 @@ export default function App() {
      
       </header>
       <main> 
-        <Dictionary />
+        <Dictionary defaultKeyword="wine" />
       </main>
       <footer className="App-footer">
       <small> Coded by Zama Andile Dlamini
