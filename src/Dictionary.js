@@ -14,9 +14,6 @@ import "./Dictionary.css";
 
 
 
-      function handleResponse (response){
-      setResults(response.data[0]);
-    }
 
     function handleDictionResponse(response){
       setResults(response.data[0]);
